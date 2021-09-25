@@ -11,7 +11,7 @@ app.secret_key = 'justin'
 api = Api(app)
 
 #
-# This will implement the "/auth" route.
+# This will implement the "/auth" route. It's "/auth" by default.
 #
 jwt = JWT(app, authenticate, identity)
 
