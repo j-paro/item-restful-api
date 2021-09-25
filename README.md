@@ -7,4 +7,4 @@ This code covers sections 4, 5, and 6 of the "Build professional REST APIs with 
 - User Registration
 - Constants File
 
-This is essentially a CRUD API.
+The Items API is essentially a CRUD API.
