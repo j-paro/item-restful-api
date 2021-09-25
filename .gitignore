@@ -130,3 +130,10 @@ dmypy.json
 
 # Visual Code
 item-restful-api.code-workspace
+
+# Sandbox Testing
+sandbox/
+
+# SQLite Database Files
+*.sqlite
+*.db
